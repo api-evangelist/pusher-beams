@@ -23,10 +23,18 @@ apis:
       - type: Documentation
         url: https://pusher.com/beams
 common:
+  - type: TrustCenter
+    url: security/pusher-beams-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/pusher-beams-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pusher-beams-domain-security.yml
   - type: Website
     url: https://pusher.com/beams
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://pusher.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
