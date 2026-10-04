@@ -39,7 +39,6 @@ apis:
   - name: Pusher Beams
     description: "Push notifications for Android & iOS"
     humanURL: https://pusher.com/beams
-    baseURL: https://pusher.com/beams
     tags:
       - Development
     properties:
